@@ -32,7 +32,7 @@ const config =
     },
     scene: 
     [    
-        //BootScene,
+        BootScene,
         TitleScene,
         LevelScene,
         ScoreScene,
