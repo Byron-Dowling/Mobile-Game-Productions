@@ -1,3 +1,4 @@
+### Description
 Simple game premise. The goal of the game is for the player to get to the end of the map without being killed by one of the killer "B.O.B's" (Bag of Bones) and not touch the lava in the process. Currently there are three levels implemented.
 
 ### Itich IO
@@ -23,3 +24,4 @@ Simple game premise. The goal of the game is for the player to get to the end of
 \
 \
 \
+![image](https://github.com/Byron-Dowling/Mobile-Game-Productions/blob/main/Don't%20Touch%20the%20Lava/Capture.PNG?raw=true)
