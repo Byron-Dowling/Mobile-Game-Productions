@@ -25,3 +25,5 @@ Simple game premise. The goal of the game is for the player to get to the end of
 \
 \
 ![image](https://github.com/Byron-Dowling/Mobile-Game-Productions/blob/main/Don't%20Touch%20the%20Lava/Capture.PNG?raw=true)
+\
+![image](https://github.com/Byron-Dowling/Mobile-Game-Productions/blob/main/Don't%20Touch%20the%20Lava/level2_SS.png?raw=true)
