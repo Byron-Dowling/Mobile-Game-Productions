@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+
+<head>
+
+     <!-- Mobile viewport settings, avoid scroll/scale -->
+     <meta name="viewport"
+     content="viewport-fit=cover, width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+     <meta name="apple-mobile-web-app-capable" content="yes">
+     <meta name="apple-mobile-web-app-status-bar-style" content="black">
+     <style>
+        body 
+        {
+            margin: 0;
+            padding: 0;
+        }
+    </style>
+
+    <title>Side Scroller</title>
+    
+     <!-- Firebase stuff  -->
+    <script src="https://www.gstatic.com/firebasejs/8.6.5/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.6.5/firebase-analytics.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.6.5/firebase-firestore.js"></script>
+    <script src=firebaseConfig.js></script> 
+
+    <!-- Not firebase stuff  
+    <script src="BootScene.js"></script> 
+    -->
+
+    <script src="phaser.js"></script>
+    <script src="BootScene.js"></script> 
+    <script src="SignalManager.js"></script>
+    <script src="TitleScene.js"></script>
+    <script src="LevelScene.js"></script>
+    <script src="ScoreScene.js"></script>
+    <script src="CreditScene.js"></script>
+    <script src="WinnerScene.js"></script>
+    <script src="GameOver.js"></script>  
+    <script src="VirtualJoystick.js"></script>
+    <script src="MS3.js"></script>
+    <script src="MS5.js"></script>
+    <script src="MS4.js"></script>
+    <script src="Controls.js"></script> 
+</head>
+
+<body>
+    <div id="game"></div>
+    <script src="game.js"></script>
+</body>
